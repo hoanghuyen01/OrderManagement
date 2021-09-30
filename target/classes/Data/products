@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productCode": "PD00111",
+      "productName": "Pink Dress 1",
+      "price": 89.23,
+      "discountCode": "DC00222",
+      "fromDate": "23/11/2021",
+      "toDate": "02/03/2022"
+    },
+    {
+      "productCode": "PD00112",
+      "productName": "Pink Dress 2",
+      "price": 88.2,
+      "discountCode": "DC00223",
+      "fromDate": "23/11/2021",
+      "toDate": "03/05/2024"
+    },
+    {
+          "productCode": "PD00112",
+          "productName": "Gucci Hat",
+          "price": "45.2",
+          "discountCode": "DC00223",
+          "fromDate": "23/11/2021",
+          "toDate": "03/05/2024"
+        }
+  ]
+}

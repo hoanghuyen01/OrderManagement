@@ -1,0 +1,35 @@
+[main] INFO  Objects.Product  - PD0000111is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD0000112is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD0000111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD0000112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD0000111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD0000112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD0000111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD0000112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD0000111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD0000112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD00111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD00112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD00111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD00112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - PD00111 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 1
+[main] INFO  Objects.Product  - PD00112 is invalid data.
+[main] WARN  Objects.Product  - Data input invalid. The system will not set this product information: Pink Dress 2
+[main] INFO  Objects.Product  - 89.23 must greater than 0
+[main] INFO  Objects.Product  - 89.23 must greater than 0
+[main] INFO  Objects.Product  - 88.2 must greater than 0

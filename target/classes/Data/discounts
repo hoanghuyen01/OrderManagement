@@ -1,0 +1,18 @@
+{
+  "discounts": [
+    {
+      "discountCode": "DC00222",
+      "discountName": "Back to school",
+      "percentage": 10,
+      "fromDate": "01082021",
+      "toDate": "01102021"
+    },
+    {
+      "discountCode": "PD0000112",
+      "discountName": "christmas events",
+      "percentage": 20,
+      "fromDate": "11112021",
+      "toDate": "01102022"
+    }
+  ]
+}

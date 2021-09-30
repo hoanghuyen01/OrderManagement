@@ -1,0 +1,36 @@
+{
+  "vouchers": [
+    {
+      "voucherCode": "VC00001",
+      "voucherName": "15% for 500$ bill",
+      "voucherType": "D",
+      "applyCondition": 500,
+      "voucherValue": 15,
+      "validDate": "12122021"
+    },
+	{
+      "voucherCode": "VC00002",
+      "voucherName": "50$ for 250$ bill",
+      "voucherType": "C",
+      "applyCondition": 500,
+      "voucherValue": 50,
+      "validDate": "03022022"
+    },
+	{
+      "voucherCode": "VC00003",
+      "voucherName": "Invalid voucher",
+      "voucherType": "D",
+      "applyCondition": 500,
+      "voucherValue": 80,
+      "validDate": "12122021"
+    },
+	{
+      "voucherCode": "VC00004",
+      "voucherName": "Other Invalid",
+      "voucherType": "S",
+      "applyCondition": 500,
+      "voucherValue": 15,
+      "validDate": "12122021"
+    }
+  ]
+}
